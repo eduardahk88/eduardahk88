@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+![](https://tenor.com/pt-BR/view/spider-man-see-ya-see-you-alrighty-i-got-you-gif-17423722)
 **eduardahk88/eduardahk88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
